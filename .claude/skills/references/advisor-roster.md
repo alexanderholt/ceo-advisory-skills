@@ -10,3 +10,4 @@
 | `/devil` | Dev team devil's advocate | Pressure-test GitHub issues and specs before sending to dev |
 | `/coach` | CEO coach | Time management, priorities, avoidance patterns, hard truths |
 | `/compliance-review` | Compliance review workflow | Formal regulatory compliance assessment (produces a saved report) |
+| `/expert-review` | On-demand expert reviewer | Review work in any domain you can't evaluate yourself (dispatches a subagent) |
